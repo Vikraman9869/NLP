@@ -1,0 +1,13 @@
+Metric,Count,Percentage,Description
+Total Comments Analyzed,2000,100.0%,Total raw comments processed
+Pure English Comments,1318,65.90%,Contains only English words + optional emojis/punctuation
+Code-Mixed Comments (Tanglish),342,17.10%,Contains at least 1 English and 1 Tamil token
+Pure Tamil-Roman Comments,17,0.85%,Contains only Romanized Tamil tokens
+Pure Tamil-Script Comments,18,0.90%,Contains only native Tamil script tokens
+Non-Linguistic / Other Comments,305,15.25%,"Contains only emojis, numbers, and punctuation"
+Mean CMI (All Comments),5.64,5.64%,Average CMI across entire dataset (0-50% scale)
+Mean CMI (Code-Mixed Subset Only),32.96,32.96%,Average CMI among code-mixed comments
+Total English Tokens,4243,32.77%,Total English token frequency
+Total Tamil-Roman Tokens,725,5.60%,Total Romanized Tamil token frequency
+Total Tamil-Script Tokens,158,1.22%,Total Native Tamil script token frequency
+Total Other Tokens,7820,60.40%,"Total Emojis, numbers, and symbols"

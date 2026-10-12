@@ -1,0 +1,107 @@
+{
+  "completed_videos": {
+    "FW_PPcr1sPE": {
+      "cap": 500,
+      "exhausted": false,
+      "comments_fetched": 500,
+      "last_scraped": "2026-10-11T17:46:14.608061+00:00"
+    },
+    "CFroXKVQtuw": {
+      "cap": 100,
+      "exhausted": true,
+      "comments_fetched": 414,
+      "last_scraped": "2026-10-11T17:46:16.009345+00:00"
+    },
+    "WKq3S2vvVEM": {
+      "cap": 500,
+      "exhausted": false,
+      "comments_fetched": 500,
+      "last_scraped": "2026-10-11T17:46:17.839085+00:00"
+    },
+    "f5M1d7r2UNQ": {
+      "cap": 500,
+      "exhausted": false,
+      "comments_fetched": 500,
+      "last_scraped": "2026-10-11T17:46:19.923952+00:00"
+    },
+    "2kntxizQIFI": {
+      "cap": 500,
+      "exhausted": false,
+      "comments_fetched": 500,
+      "last_scraped": "2026-10-11T17:46:22.483980+00:00"
+    },
+    "fJaAYcERf3Y": {
+      "cap": 500,
+      "exhausted": false,
+      "comments_fetched": 500,
+      "last_scraped": "2026-10-11T17:46:24.583007+00:00"
+    },
+    "Po3jStA673E": {
+      "cap": 500,
+      "exhausted": false,
+      "comments_fetched": 500,
+      "last_scraped": "2026-10-11T17:46:27.066889+00:00"
+    },
+    "BlcaF4EvKTo": {
+      "cap": 500,
+      "exhausted": false,
+      "comments_fetched": 500,
+      "last_scraped": "2026-10-11T17:46:29.753009+00:00"
+    },
+    "6aYL1T4J9es": {
+      "cap": 500,
+      "exhausted": false,
+      "comments_fetched": 500,
+      "last_scraped": "2026-10-11T17:46:31.790437+00:00"
+    },
+    "Le_toR6sXXE": {
+      "cap": 500,
+      "exhausted": false,
+      "comments_fetched": 500,
+      "last_scraped": "2026-10-11T17:46:33.979667+00:00"
+    },
+    "TROFVicWrTE": {
+      "cap": 500,
+      "exhausted": false,
+      "comments_fetched": 500,
+      "last_scraped": "2026-10-11T17:46:35.907349+00:00"
+    },
+    "VCnfbX_q-9c": {
+      "cap": 500,
+      "exhausted": false,
+      "comments_fetched": 500,
+      "last_scraped": "2026-10-11T17:46:38.201785+00:00"
+    },
+    "lU40CPN7Ww0": {
+      "cap": 500,
+      "exhausted": false,
+      "comments_fetched": 500,
+      "last_scraped": "2026-10-11T17:46:40.465533+00:00"
+    },
+    "VOHaf-0DV-U": {
+      "cap": 500,
+      "exhausted": false,
+      "comments_fetched": 500,
+      "last_scraped": "2026-10-11T17:46:43.015609+00:00"
+    },
+    "ZnH_2I0WoFQ": {
+      "cap": 500,
+      "exhausted": false,
+      "comments_fetched": 500,
+      "last_scraped": "2026-10-11T17:46:45.278323+00:00"
+    },
+    "ajnCMSC4VPo": {
+      "cap": 500,
+      "exhausted": false,
+      "comments_fetched": 500,
+      "last_scraped": "2026-10-11T17:46:47.671887+00:00"
+    },
+    "tLeTx5OdjZs": {
+      "cap": 500,
+      "exhausted": false,
+      "comments_fetched": 500,
+      "last_scraped": "2026-10-11T17:46:49.942317+00:00"
+    }
+  },
+  "last_updated": "2026-10-11T17:46:49.942317+00:00"
+}

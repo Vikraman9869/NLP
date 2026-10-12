@@ -50,3 +50,7 @@ venv.bak/
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Annotation data
+data/annotation/
+
